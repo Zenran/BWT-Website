@@ -1,0 +1,44 @@
+---
+title: My homepage
+layout: "base.njk"
+---
+
+<section class="hero">
+  <div class="container flow">
+    <div class="hero__content flow">
+      <h1 class="section-title">Welcome to BWT-Bengali WebToon!</h1>
+      <p>
+        Explore our takes on anime adventures, insights, and more. Dive into
+        favorite reviews or head to the blog for the latest posts. Let's journey
+        through the anime realm together!
+      </p>
+      <p>
+        Below are some of our favourite reviews, or you can go to the reviews
+        page to see our most recent reviews.
+      </p>
+      <div class="flex-group">
+        <a href="#featured-articles" class="btn btn--primary"
+          >Featured reviews</a
+        >
+        <a href="./blog" class="btn btn--neutral">Most recent reviews</a>
+      </div>
+    </div>
+    <div>
+      <img src="./assets/hero-cover.gif" alt="" class="hero__image" />
+    </div>
+  </div>
+</section>
+
+<section id="featured-articles" class="featured-articles">
+  <div class="container flow">
+    <h2 class="section-title text-center">Featured reviews</h2>
+    <p class="text-center">
+      Explore BWT-Bengali WebToop's anime reviews, diving into the world of
+      captivating storytelling
+    </p>
+    <ul role="list" class="articles__list flow">
+      {%- for post in collections.featured | reverse -%} {% include
+      'article-snippet.njk' %} {%- endfor -%}
+    </ul>
+  </div>
+</section>

@@ -5,8 +5,8 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-body: "Merriweather", serif;
+  --ff-heading: "Work Sans", sans-serif;
 
   --fw-400: 400;
   --fw-700: 700;
@@ -142,8 +142,6 @@ section,
   padding: min(10vh, 10em) 0;
 }
 
-
-
 /* //////////////////////
   Utility Classes
   /////////////////////// */
@@ -191,10 +189,26 @@ section,
   font-size: var(--fs-600);
 }
 
-
 /* //////////////////////
   Header
   /////////////////////// */
+
+.nav-logo h3 a {
+  text-decoration: none;
+  color: var(--clr-neutral-900);
+}
+
+.nav-logo .spanone {
+  padding: 10px;
+  background-color: white;
+  border: 5px solid black;
+}
+
+.nav-logo .spantwo {
+  color: white;
+  background-color: black;
+  padding: 15px;
+}
 
 .page-header {
   padding: 2em 0;
@@ -270,15 +284,15 @@ section,
   Individual article page
   /////////////////////// */
 
-  .main-article {
-    margin-bottom: 3rem;
-  }
+.main-article {
+  margin-bottom: 3rem;
+}
 
-  .main-article__figure figcaption {
-    margin: 1rem 0;
-    font-size: var(--fs-300);
-    opacity: .9;
-  }
+.main-article__figure figcaption {
+  margin: 1rem 0;
+  font-size: var(--fs-300);
+  opacity: 0.9;
+}
 
 /* //////////////////////
   Article snippets
@@ -330,7 +344,7 @@ section,
 .snippet__title a:hover,
 .snippet__title a:focus {
   color: var(--clr-primary-500);
-} 
+}
 
 @media (min-width: 45em) {
   .snippet {
@@ -370,7 +384,7 @@ section,
 .btn--primary:hover,
 .btn--primary:focus {
   background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500); 
+  border-color: var(--clr-primary-500);
 }
 
 .btn--neutral {
