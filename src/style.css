@@ -133,6 +133,10 @@ h3 {
   line-height: 1.1;
 }
 
+p{
+  line-height: 1.7;
+}
+
 strong {
   font-weight: var(--fw-700);
 }
@@ -193,21 +197,31 @@ section,
   Header
   /////////////////////// */
 
+@media (max-width: 650px) {
+  .nav-logo h3 a {
+    font-size: 13px;
+    display: block;
+  }
+
+}
+
 .nav-logo h3 a {
   text-decoration: none;
   color: var(--clr-neutral-900);
 }
 
 .nav-logo .spanone {
-  padding: 10px;
-  background-color: white;
-  border: 5px solid black;
+  display: block;
+  text-align: center;
+  border: 2px solid black;
+  padding: 5px;
 }
 
 .nav-logo .spantwo {
-  color: white;
+  display: block;
+  padding: 5px;
   background-color: black;
-  padding: 15px;
+  color: white;
 }
 
 .page-header {
@@ -217,6 +231,7 @@ section,
 .page-header__content {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .nav-list {
@@ -314,6 +329,11 @@ section,
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
 }
 .snippet__title {
   grid-area: title;
@@ -325,6 +345,10 @@ section,
 
 .snippet__meta span {
   color: var(--clr-neutral-900);
+}
+
+.snippet__meta>span {
+  font-weight: 900;
 }
 
 .snippet .btn {
