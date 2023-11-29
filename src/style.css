@@ -133,7 +133,7 @@ h3 {
   line-height: 1.1;
 }
 
-p{
+p {
   line-height: 1.7;
 }
 
@@ -202,7 +202,6 @@ section,
     font-size: 13px;
     display: block;
   }
-
 }
 
 .nav-logo h3 a {
@@ -347,7 +346,7 @@ section,
   color: var(--clr-neutral-900);
 }
 
-.snippet__meta>span {
+.snippet__meta > span {
   font-weight: 900;
 }
 
