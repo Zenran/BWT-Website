@@ -256,6 +256,8 @@ section,
 }
 
 @media (max-width: 900px) {
+  .list1,
+  .list2,
   .list3,
   .list4,
   .list5,
@@ -274,7 +276,7 @@ section,
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
-}
+  }
 }
 
 .dropdown {
@@ -285,7 +287,7 @@ section,
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
