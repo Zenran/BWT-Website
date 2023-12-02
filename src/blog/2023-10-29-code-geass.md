@@ -1,5 +1,5 @@
 ---
-title: Code Geass-Lelouch of the Rebellion
+title: Code Geass-Lelouch of the Rebellion (Anime)
 description: >-
   পৃথিবীর এই মুহূর্তে এক বিশৃঙ্খল অবস্থাতে আছে। চারিদিকে যুদ্ধ, অন্যায়, অনাচার,
   বৈষম্য। এসব দেখে অনেকেই হয়তো আমার মত দিনের বেলা স্বপ্ন দেখেন যে পুরো পৃথিবীটা
