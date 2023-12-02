@@ -4,7 +4,7 @@ description: >-
   কাহিনী টা শুরু হয় এমনি এক Idol fan কে দিয়ে তার নাম গোরও আনেমিয়া।গোরও একটা
   হসপিটাল এর gynecologi বিভাগের একজন ডক্টর।সে পুরো জাপান বিখ্যাত B-komachi নামের
   আইডল গ্রুপ এর সেন্টার আইডল আই হসিনোর Fan।তবে জানা যায় সে....
-author: Badhon- Restricted
+author: Badhon Restricted
 date: 2023-11-02T20:01:00.000Z
 tags:
   - post
