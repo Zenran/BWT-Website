@@ -251,6 +251,8 @@ section,
 }
 
 @media (min-width: 901px) {
+  .list1,
+  .list2,
   .list3,
   .list4,
   .list5,
@@ -261,6 +263,7 @@ section,
   .dropbtn {
     display: none; /* Changed from 'display: hidden;' */
   }
+
 }
 
 @media (max-width: 900px) {
