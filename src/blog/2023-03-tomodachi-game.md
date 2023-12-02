@@ -8,7 +8,7 @@ date: 2023-10-30T12:30:00.000Z
 tags:
   - post
 image: /assets/blog/tomodachi game.jpg
-imageAlt: Tomodachi Game
+imageAlt: This is Tomodachi Game
 ---
 🚨🚨 MILD SPOILER ALERT🚨🚨
 
