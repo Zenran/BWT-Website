@@ -1,5 +1,5 @@
 ---
-title: Tomodachi Game
+title: Tomodachi Game (Anime)
 description: >-
   Psychological anime পছন্দ করেন আর Tomodachi Game এর নাম শোনেন নি তা হতে পারে
   না।new genaration এর সেরা mystery anime বললেও ভুল বলা হবে না।
