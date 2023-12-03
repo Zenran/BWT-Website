@@ -14,18 +14,44 @@ image: /assets/blog/komi-cant-communicate.webp
 imageAlt: This is Komi Can't Communicate
 ---
 \#No_Spoiler_Review
-MyAnimeList (MAL) Rating: 
-‌Season 01 : 7.90 
-‌Season 02 :  8.05 
-IMDB Rating: 7.8
-Personal Rating: 9.0 
-Japanese: 古見さんは、コミュ症です (Komi-san wa Comyushou Desu.) 
-Genre: Comedy, Romance, Drama 
-Age Restriction: 13+
-Demographic: Shounen
-Status: Ongoing
-Seasons & Episodes: 2 Seasons - 24 Episodes 
-Runtime: 24 minutes per episode 
+
+## 
+**MyAnimeList (MAL) Rating**: 
+
+
+‌**Season 01** : 7.90 
+
+
+‌**Season** **02** :  8.05 
+
+
+**IMDB Rating**: 7.8
+
+
+**Personal Rating**: 9.0 
+
+
+**Japanese**: 古見さんは、コミュ症です (Komi-san wa Comyushou Desu.) 
+
+
+**Genre**: Comedy, Romance, Drama 
+
+
+**Age Restriction**: 13+
+
+
+**Demographic:** Shounen
+
+
+**Status**: Ongoing
+
+
+**Seasons & Episodes**: 2 Seasons - 24 Episodes 
+
+
+**Runtime**: 24 minutes per episode 
+
+
 
 অনগোয়িং রোমান্টিক-কমেডি অ্যানিমে গুলোর মাঝে অন্যতম জনপ্রিয় একটি সিরিজ Komi Can't Communicate অ্যানিমেটি। সত্যি বলতে গতবছর প্রথম সিজনটি বের হবার পরপরই এই সিরিজটি দেখার জন্য বসেছিলাম তবে মাত্র তিনটি পর্ব দেখার পর মনে হয়েছিল যে এই সিরিজটি আমার জন্য না। তাই পরে আর দেখা হয়নি। তবে এই সিরিজটি এতটাই জনপ্রিয় হয়ে উঠেছে যে এই অ্যানিমেটির নাম বারবারই চোখের সামনে এসে পরে। এই বছর সিরিজটির দ্বিতীয় সিজন মুক্তি পাবার সাথে সাথেই সকল সোস্যাল মিডিয়া এই সিরিজটির আলোচনায় ভরে উঠেছিল। তাই ঠিক করলাম আরো একবার এই সিরিজটিকে চ্যান্স দিয়ে দেখি যেহেতু সকলে এতো পছন্দ করে। 
 
