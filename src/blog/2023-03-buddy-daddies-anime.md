@@ -13,13 +13,27 @@ image: /assets/blog/buddy-daddies.jpg
 imageAlt: This is Buddy Daddies
 ---
 \#No_Spoiler_Review 
-MyAnimeList (MAL) Rating: 8.14
-IMDB: 7.9 
-Personal: 8.5
-Age Restriction: 13+
-Genre: Slice of Life, Action, Comedy, Drama 
-Episodes: 13 Episodes - 01 Season
-Runtime: 24 Minutes per Episode 
+
+
+**MyAnimeList (MAL) Rating**: 8.14
+
+
+**IMDB**: 7.9 
+
+
+**Personal:** 8.5
+
+
+**Age Restriction**: 13+
+
+
+**Genre**: Slice of Life, Action, Comedy, Drama 
+
+
+**Episodes**: 13 Episodes - 01 Season
+
+
+**Runtime:** 24 Minutes per Episode 
 
 যারা স্লাইস অফ লাইফ ও হোলসাম টাইপ কন্টেন্ট পছন্দ করেন তাদের জন্য একটা ভালো রিকমেন্ডেশন Buddy Daddies সিরিজটি। ইতোমধ্যেই গত ১ এপ্রিল শেষ পর্বটি রিলিজ হয়ে বেশ সুন্দর ভাবে সমাপ্ত হয়ে গিয়েছে এই সিরিজের কাহিনীটি। আমার কাছে খুবই চমৎকার লেগেছে পুরো সিরিজটি এবং মনে হয়েছে যে সহজেই সকলের ভালো লাগবে কাহিনীটি। 
 
