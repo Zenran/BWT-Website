@@ -14,15 +14,35 @@ image: /assets/blog/Pluto.webp
 imageAlt: This is Pluto
 ---
 \#No_Spoiler_Review 
-MyAnimeList (MAL) Rating: 8.80 
-IMDB Rating: 8.6 
-Personal Rating: 10
-Japanese: プルートウ
-Genre: Thriller, Mystery, Psychological, Sci-fi 
-Age Restriction: PG - 13+ 
-Demographic: Seinen 
-Seasons & Episodes: 01 Season - 8 Episodes 
-Runtime: 1 Hour per Episode 
+
+
+**MyAnimeList (MAL) Rating**: 8.80 
+
+
+**IMDB Rating**: 8.6 
+
+
+**Personal Rating**: 10
+
+
+**Japanese**: プルートウ
+
+
+**Genre**: Thriller, Mystery, Psychological, Sci-fi 
+
+
+**Age Restriction**: PG - 13+ 
+
+
+**Demographic**: Seinen 
+
+
+**Seasons & Episodes**: 01 Season - 8 Episodes 
+
+
+**Runtime**: 1 Hour per Episode 
+
+
 
 পাওয়ারফুল স্টোরিটেলিংয়ের এক জোরালো উদাহরণ Fall 2023 সিজনের নেটফ্লিক্স অ্যানিমে সিরিজ "Pluto"। জনপ্রিয় লেখক Naoki Urasawa-র উপন্যাসের উপর ভিত্তি করা "Pluto" সিরিজটি তুলে ধরেছে "Astroboy" মাঙ্গার একটি অধ্যায়, তবে এখানে টুইস্ট হলো তিনি এই অধ্যায়টিকে একটি মার্ডার মিস্ট্রি রূপে রিটেলিং করেছেন যা মূলত টার্গেট করেছে একটি ম্যাচিউর অডিয়েন্সকে। গল্পতে মিস্ট্রি থ্রিলারের সাথে একটি Sci-fi থিমের ব্যবহারে নানা প্রকার ডার্ক থিম যোগ করা হয়েছে যা আপনার মনে তুলে ধরবে মনুষ্যত্ব ও সমাজ সম্পর্কে কিছু কঠিন প্রশ্ন! আর সেই প্রশ্ন গুলোর উত্তর জানতে এক অজানা ভয়ও কাজ করবে মনে। 
 
