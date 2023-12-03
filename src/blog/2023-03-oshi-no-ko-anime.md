@@ -11,18 +11,40 @@ tags:
 image: /assets/blog/oshi-no-ko.webp
 imageAlt: This is Oshi No Ko
 ---
-Genre:Romance,psychological, Mystery,Drama,Slice of life,Tragedy
-IMDB:8.5 ✨
-MAL:8.75 ✨
-Personal rating:9
-Seasons:1 completed(ongoing)
-Studio:Doga Kobo
+**Genre:** Romance, Psychological, Mystery,Drama,Slice of life,Tragedy
 
-Manga:
-Chapters:130(still ongoing)
-Writer:Akasaka Aka
-MAL:8.64 ✨
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**IMDB:**8.5 ✨
+
+
+**MAL**:8.75 ✨
+
+
+**Personal rating**: 9
+
+
+**Seasons**: 1 completed(ongoing)
+
+
+**Studio**: Doga Kobo
+
+
+
+## Manga:
+
+
+**Chapters: **130(still ongoing)
+
+
+**Writer**: Akasaka Aka
+
+
+**MAL: **8.64 ✨
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
 "Idol" শব্দটা মেয়েদের কাছে বেশি পরিচিত।এইটা এমন কোনো শিল্পী বা ব্যাক্তিত্ব কে বুঝায় যাকে লোকজন Idolize করে থাকেন।
 
 কাহিনী টা শুরু হয় এমনি এক Idol fan কে দিয়ে তার নাম গোরও আনেমিয়া।গোরও একটা হসপিটাল এর gynecologi বিভাগের একজন ডক্টর।সে পুরো জাপান বিখ্যাত B-komachi নামের আইডল গ্রুপ এর সেন্টার আইডল আই হসিনোর Fan।তবে জানা যায় সে নিজে থেকে আই এর fan হয়নি।তার এক কিশোরী রোগী ছিল সেরিনা তেন্দৌজি সে এতটা দুর্বল হয়ে পড়েছিল যে সে হাঁটাচলা করতে পারতো না।সারাদিন হসপিটাল এর বিছানায় শুয়ে শুয়ে ও B-komachi এর কনসার্ট এর ভিডিও দেখতে।সে নিজেকে আই হসিনোর সবচেয়ে বড় Fan বলে দাবি করতে।তার মাধ্যমেই গোরও জানতে পারে আই হসিনো নামের আইডল এর ব্যাপারে।
@@ -44,13 +66,23 @@ MAL:8.64 ✨
 করে যে সে তার মায়ের হত্যার প্রতিশোধ নিবে।
 
 এইভাবেই শুরু হয় একুয়া এর প্রতিশোধ এর খেলা।
+
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
 Will aqua be able to avenge his mother?
+
+
 
 আমি এইটার manga Caught up kortechi....anime dekhar por theke...
 
-Some Achievement of this anime
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Some Achievement of this anime
+
+## 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
 ⭐ MAL top 1 rank reached for sometime.(Anime)
 
 ⭐ 15 million manga copies in circulation.
