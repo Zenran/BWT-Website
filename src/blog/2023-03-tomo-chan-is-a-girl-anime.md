@@ -14,14 +14,32 @@ image: /assets/blog/tomo-chan.webp
 imageAlt: This is Tomo-chan is a Girl
 ---
 \#No_Spoiler_Review 
-MyAnimeList (MAL) Rating: 7.82
-IMDB Rating: 7.6
-Personal Rating: 9.5
-Japanese:トモちゃんは女の子! (Tomo-chan Wa Onnanoko!) 
-Genre: Romance, Comedy, Drama 
-Age Restriction: 13+
-Seasons & Episodes: 01 Season - 13 Episodes 
-Runtime: 24 minutes per Episode 
+
+
+**MyAnimeList (MAL) Rating**: 7.82
+
+
+**IMDB Rating:** 7.6
+
+
+**Personal Rating**: 9.5
+
+
+**Japanese**:トモちゃんは女の子! (Tomo-chan Wa Onnanoko!) 
+
+
+**Genre**: Romance, Comedy, Drama 
+
+
+**Age Restriction**: 13+
+
+
+**Seasons & Episodes**: 01 Season - 13 Episodes 
+
+
+**Runtime**: 24 minutes per Episode 
+
+
 
 পারফেক্ট একটা এন্ডিংয়ের মাধ্যমে শেষ হয়ে গেল এই Winter 2023 সিজনের বেস্ট রোমান্টিক কমেডি সিরিজ Tomo-chan is a Girl অ্যানিমেটি। মাত্র ১৩টি পর্বে কিভাবে প্রতিটি ঘটনা ও পুরো গল্পটি এতো সুন্দর করে গুছিয়ে মিলিয়ে শেষ করে ফেলল এই অ্যানিমেটি তা সত্যিই প্রশংসনীয়! 
 
