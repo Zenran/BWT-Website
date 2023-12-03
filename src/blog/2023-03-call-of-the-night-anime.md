@@ -15,16 +15,38 @@ image: /assets/blog/Call of the night.png
 imageAlt: 'This is Call of the Night '
 ---
 \#No_Spoiler_Review 
-MyAnimeList (MAL) Rating: 7.99
-IMDB Rating: 7.7 
-Personal Rating: 8.5 
-Genre: Comedy, Romance, Supernatural
-Japanese: よふかしのうた (Yofukashi no Uta)
-Age Restriction: 13+ 
-Demographics: Shounen 
-Seasons & Episodes: 01 Season - 13 Episodes 
-Status: Ongoing
-Runtime: 24 minutes per episode 
+
+
+**MyAnimeList (MAL) Rating**: 7.99
+
+
+**IMDB Rating**: 7.7 
+
+
+**Personal Rating**: 8.5 
+
+
+**Genre**: Comedy, Romance, Supernatural
+
+
+**Japanese**: よふかしのうた (Yofukashi no Uta)
+
+
+**Age Restriction**: 13+ 
+
+
+**Demographics**: Shounen 
+
+
+**Seasons & Episodes**: 01 Season - 13 Episodes 
+
+
+**Status**: Ongoing
+
+
+**Runtime**: 24 minutes per episode 
+
+
 
 যদিও রোমান্টিক কমেডি অ্যানিমে গুলো মূলত হাই স্কুল ভিত্তিক বা স্লাইস অফ লাইফ ধাঁচের হলেই আমার পছন্দ হয়, Call of the Night অ্যানিমেটি ফ্যান্টাসি জনরার হবার পরও এর ছোট ছোট কিছু ক্লিপ ইন্সাটাগ্রামে দেখে দেখার আগ্রহ জাগে। সিরিজটি নিয়ে ঘাঁটাঘাঁটি করে জানতে পারি যে একেবারেই নতুন এবং রানিং অ্যানিমে এবং কাহিনীটি ভালোই ইন্টারেস্টিং। তবে যেই বিষয়টি এই সিরিজটি দেখার জন্য সবচেয়ে বেশি টেনেছে আমাকে তা হলো এর চমৎকার ভিজুয়ালস্। 
 
