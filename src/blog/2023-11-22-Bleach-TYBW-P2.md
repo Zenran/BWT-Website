@@ -1,11 +1,16 @@
 ---
-title: Bleach-Thousand Year Blood War - Part 02 ~ The Separation
+title: Bleach-Thousand Year Blood War - Part 02 ~ The Separation (Anime)
+description: >-
+  মাথা নষ্ট করা একটি এক ঘন্টা স্পেশাল ফিনালে পর্বের মাধ্যমে শেষ হলো এই Summer
+  2023 সিজনের বেস্ট অ্যানিমে "Bleach Thousand Year Blood War" এর Part 02 - The
+  Separation! আমার
 author: Lamisha Astaria
-date: 2023-11-22
-tags: ['post', 'featured']
+date: 2023-11-22T00:00:00.000Z
+tags:
+  - post
+  - featured
 image: /assets/blog/bleach-thousand-year-blood-war.jpg
 imageAlt: This is Bleach-Thousand Year Blood War - Part 02
-description: মাথা নষ্ট করা একটি এক ঘন্টা স্পেশাল ফিনালে পর্বের মাধ্যমে শেষ হলো এই Summer 2023 সিজনের বেস্ট অ্যানিমে "Bleach Thousand Year Blood War" এর Part 02 - The Separation! আমার
 ---
 
 মাথা নষ্ট করা একটি এক ঘন্টা স্পেশাল ফিনালে পর্বের মাধ্যমে শেষ হলো এই Summer 2023 সিজনের বেস্ট অ্যানিমে "Bleach Thousand Year Blood War" এর Part 02 - The Separation! আমার কাছে তো সাংঘাতিকের চেয়েও বেশি সাংঘাতিক লেগেছে এই পার্টটা, যা তুলে ধরেছে Sternritter বাহিনী ও Yhwach-র ভয়াবহতা ও সেইসাথে আমাদের প্রিয় হিরোদের তাদের বিরুদ্ধে দেয়া neck to neck অ্যাকশন! কখন হাত তালি দিবো, আর কখন অবাক হয়ে তাকিয়ে থেকে প্লট টুইস্ট গুলো দেখবো, তার হিসেব যেন হারিয়ে ফেলেছিলাম প্রতিটি পর্বে!! একজন Bleach‌ ভক্ত হিসেবে আমি পুরোপুরি স্যাটিসফাইড এই পার্টটার ওভার অল একজিকিউশান নিয়ে এবং অধীর আগ্রহে অপেক্ষা করছি পরবর্তী পার্টের!! 

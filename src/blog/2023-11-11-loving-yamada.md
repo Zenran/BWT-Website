@@ -1,11 +1,16 @@
 ---
-title: Loving Yamada at LV. 999
+title: Loving Yamada at LV. 999 (Anime)
+description: >-
+  এই Spring 2023 সিজনের যেই রোম্যান্স অ্যানিমেটি দেখে শুরু থেকে শেষ পর্যন্ত
+  সবচাইতে বেশি স্যাটিসফাইড হয়েছি সেটি হলো "Loving Yamada at LV 999" সিরিজটি!
+  অসম্ভব ম্যাচিউর একটি কাহিনী সেইসাথে Akane
 author: Lamisha Astaria
-date: 2023-11-11
-tags: ["post", "featured"]
+date: 2023-11-11T00:00:00.000Z
+tags:
+  - post
+  - featured
 image: /assets/blog/loving-yamda.webp
 imageAlt: This is Loving Yamada at LV. 999
-description: এই Spring 2023 সিজনের যেই রোম্যান্স অ্যানিমেটি দেখে শুরু থেকে শেষ পর্যন্ত সবচাইতে বেশি স্যাটিসফাইড হয়েছি সেটি হলো "Loving Yamada at LV 999" সিরিজটি! অসম্ভব ম্যাচিউর একটি কাহিনী সেইসাথে Akane
 ---
 
 Loving Yamada at LV. 999 (2023)

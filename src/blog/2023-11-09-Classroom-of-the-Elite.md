@@ -1,11 +1,16 @@
 ---
-title: Classroom of the Elite
+title: Classroom of the Elite (Anime)
+description: >-
+  টোকিও তে বিশেষ মেধাসম্পন্ন কিশোরদের জন্য রয়েছে টোকিও মেট্রোপলিটন অ্যাডভান্স
+  নারচারিং স্কুল।সেরার সেরারা অর্থাৎ Elite রাই শুধু এখানে শিক্ষা গ্রহণ এর সুযোগ
+  পায়।প্রত্যেক বছর একটা এডমিশন টেস্ট পার করে শিক্ষার্থীদের
 author: Badhon Restricted
-date: 2023-11-09
-tags: ["post", "featured"]
+date: 2023-11-09T00:00:00.000Z
+tags:
+  - post
+  - featured
 image: /assets/blog/Classroom-of-the-Elite.webp
 imageAlt: This is Classroom of the Elite
-description: টোকিও তে বিশেষ মেধাসম্পন্ন কিশোরদের জন্য রয়েছে টোকিও মেট্রোপলিটন অ্যাডভান্স নারচারিং স্কুল।সেরার সেরারা অর্থাৎ Elite রাই শুধু এখানে শিক্ষা গ্রহণ এর সুযোগ পায়।প্রত্যেক বছর একটা এডমিশন টেস্ট পার করে শিক্ষার্থীদের 
 ---
 
 Title:Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
