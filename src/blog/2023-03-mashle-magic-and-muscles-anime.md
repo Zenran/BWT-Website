@@ -9,7 +9,7 @@ author: Lamisha Astaria
 date: 2023-11-14T20:53:00.000Z
 tags:
   - post
-image: /assets/blog/Mashle Magic and Muscles.jpeg
+image: /assets/blog/Mashle Magic and Muscles.webp
 imageAlt: 'This is Mashle Magic and Muscles '
 ---
 \#No_Spoiler_Review 

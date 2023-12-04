@@ -10,7 +10,7 @@ author: 'Badhon Restricted '
 date: 2023-11-05T20:29:00.000Z
 tags:
   - post
-image: /assets/blog/Record of Ragnarok.jpg
+image: /assets/blog/Record of Ragnarok.webp
 imageAlt: 'This is Record Of Ragnarok '
 ---
 **Genre**:Action,Drama,Superpower,Super Natural,Mythology

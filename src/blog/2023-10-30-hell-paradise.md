@@ -9,7 +9,7 @@ date: 2023-10-30T00:00:00.000Z
 tags:
   - post
   - featured
-image: /assets/blog/hells-paradise.png
+image: /assets/blog/hells-paradise.webp
 imageAlt: This is a Jigokuraku
 ---
 

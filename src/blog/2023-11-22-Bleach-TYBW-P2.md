@@ -9,7 +9,7 @@ date: 2023-11-22T00:00:00.000Z
 tags:
   - post
   - featured
-image: /assets/blog/bleach-thousand-year-blood-war.jpg
+image: /assets/blog/bleach-thousand-year-blood-war.webp
 imageAlt: This is Bleach-Thousand Year Blood War - Part 02
 ---
 
