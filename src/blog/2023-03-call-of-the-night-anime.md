@@ -11,7 +11,7 @@ author: Lamisha Astaria
 date: 2023-11-08T20:41:00.000Z
 tags:
   - post
-image: /assets/blog/Call of the night.png
+image: /assets/blog/Call of the night.webp
 imageAlt: 'This is Call of the Night '
 ---
 \#No_Spoiler_Review 
