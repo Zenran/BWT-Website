@@ -7,7 +7,7 @@ author: Badhon Restricted
 date: 2023-10-30T12:30:00.000Z
 tags:
   - post
-image: /assets/blog/tomodachi game.jpg
+image: /assets/blog/tomodachi game.webp
 imageAlt: This is Tomodachi Game
 ---
 🚨🚨 MILD SPOILER ALERT🚨🚨
