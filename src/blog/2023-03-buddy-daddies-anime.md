@@ -9,7 +9,7 @@ author: Lamisha Astaria
 date: 2023-11-01T19:58:00.000Z
 tags:
   - post
-image: /assets/blog/buddy-daddies.jpg
+image: /assets/blog/buddy-daddies.webp
 imageAlt: This is Buddy Daddies
 ---
 \#No_Spoiler_Review 
