@@ -8,7 +8,7 @@ author: Kybans Kybans
 date: 2023-10-28T19:41:23.465Z
 tags:
   - post
-image: /assets/blog/paprika.jpg
+image: /assets/blog/paprika.webp
 imageAlt: This is Paprika
 ---
 প্রতিটি মানুষ স্বপ্ন দেখে। কেউ দেখে ঘুমের মধ্যে অবচেতনভাবে; আবার কারো কারোর ক্ষেত্রে, তাদের মনের আকাঙ্ক্ষা বা প্রত্যাশা (এটাকেও normally স্বপ্ন ই বলে) ঘুমাতেই দেয় না। স্বপ্ন পূরণের জন্য চেষ্টা করে চলে।
