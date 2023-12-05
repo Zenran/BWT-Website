@@ -1,5 +1,5 @@
 ---
-title: The Angel Next Door Spoils Me Rotten!
+title: The Angel Next Door Spoils Me Rotten! (Anime)
 description: >-
   কিছু কিছু অ্যানিমে সিরিজ একদম মনের মাঝে জায়গা করে নেয়। তেমন করেই আমার দেখা
   বেস্ট রোমান্টিক অ্যানিমে সিরিজ গুলোর একটি হয়ে গেল "The Angel Next Door Spoils
