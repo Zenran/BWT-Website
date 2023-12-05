@@ -1,5 +1,5 @@
 ---
-title: Skip and Loafer
+title: Skip and Loafer (Anime)
 description: >-
   খুব রিল্যাক্সিং ও হোলসাম কন্টেন্ট পছন্দ করে থাকলে "Skip and Loafer" সিরিজটি
   ট্রাই করতে পারেন। এই বছরের এখন পর্যন্ত বের হওয়া বেস্ট স্লাইস অফ লাইফ অ্যানিমে
