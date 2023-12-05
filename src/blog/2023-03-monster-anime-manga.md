@@ -10,7 +10,7 @@ tags:
   - post
   - featured
 image: /assets/blog/Monster.webp
-imageAlt: This is Monster
+imageAlt: Monster
 ---
 **Genres**: Mystery • Psychological • Drama • Seinen • Suspense 
 
