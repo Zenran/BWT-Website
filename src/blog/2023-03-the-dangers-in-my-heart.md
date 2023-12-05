@@ -10,7 +10,7 @@ date: 2023-11-05T20:49:17.489Z
 tags:
   - post
 image: /assets/blog/The Dangers in My Heart.webp
-imageAlt: This is The Dangers in My Heart
+imageAlt: The Dangers in My Heart
 ---
 \#No_Spoiler_Review 
 
