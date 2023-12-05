@@ -8,7 +8,7 @@ date: 2023-11-28T20:32:00.000Z
 tags:
   - post
 image: /assets/blog/Blood C.webp
-imageAlt: This is Blood - C
+imageAlt: Blood  C
 ---
 **Genre** : Horror,Action,Mystery,Gore
 
