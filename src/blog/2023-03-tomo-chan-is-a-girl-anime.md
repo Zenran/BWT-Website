@@ -11,7 +11,7 @@ date: 2023-10-31T20:05:00.000Z
 tags:
   - post
 image: /assets/blog/tomo-chan.webp
-imageAlt: This is Tomo-chan is a Girl
+imageAlt: Tomo-chan is a Girl
 ---
 \#No_Spoiler_Review 
 

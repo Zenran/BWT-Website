@@ -10,7 +10,7 @@ tags:
   - post
   - featured
 image: /assets/blog/loving-yamda.webp
-imageAlt: This is Loving Yamada at LV. 999
+imageAlt: Loving Yamada at LV. 999
 ---
 
 Loving Yamada at LV. 999 (2023)

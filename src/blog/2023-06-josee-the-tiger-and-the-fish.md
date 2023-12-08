@@ -1,5 +1,5 @@
 ---
-title: 'Josee, the Tiger and the Fish'
+title: 'Josee, the Tiger and the Fish (Anime)'
 description: >-
   এই মুভিটির মূল দুই ক্যারেক্টার হলো Josee আর Tsuneo.এছাড়াও আরও অনেক ক্যারেক্টার
   আছে যেমনঃ- Josse এর দাদী,আর Tsuneo এর দুজন ফ্রেন্ড।  তো এবার মুভির প্লটে আসা

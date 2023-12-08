@@ -11,7 +11,7 @@ date: 2023-11-05T20:29:00.000Z
 tags:
   - post
 image: /assets/blog/Record of Ragnarok.webp
-imageAlt: 'This is Record Of Ragnarok '
+imageAlt: 'Record Of Ragnarok '
 ---
 **Genre**:Action,Drama,Superpower,Super Natural,Mythology
 

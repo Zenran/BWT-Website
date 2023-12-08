@@ -9,7 +9,7 @@ date: 2023-11-02T20:01:00.000Z
 tags:
   - post
 image: /assets/blog/oshi-no-ko.webp
-imageAlt: This is Oshi No Ko
+imageAlt: Oshi No Ko
 ---
 **Genre:** Romance, Psychological, Mystery,Drama,Slice of life,Tragedy
 

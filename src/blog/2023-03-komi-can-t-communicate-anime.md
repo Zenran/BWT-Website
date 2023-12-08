@@ -11,7 +11,7 @@ date: 2023-11-02T19:51:00.000Z
 tags:
   - post
 image: /assets/blog/komi-cant-communicate.webp
-imageAlt: This is Komi Can't Communicate
+imageAlt: Komi Can't Communicate
 ---
 \#No_Spoiler_Review
 
