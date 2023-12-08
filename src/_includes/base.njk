@@ -3,10 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Welcome to BWT-Bengali WebToon! Explore our takes on anime adventures, insights, and more. Dive into favorite reviews or head to the blog for the latest posts. Let's journey through the anime realm together!"
+    />
+
+    <meta
+      name="keywords"
+      content="bwt, bengali webtoon, anime, manga, manwha, manhua"
+    />
+
+    <meta name="robots" content="index, follow" />
     <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon" />
     <title>BWT-Bengali WebToon</title>
     <link rel="stylesheet" href="/style.css" />
-    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script
+      defer
+      src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+    ></script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -22,17 +36,15 @@
     {% include 'footer.njk' %}
 
     <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
         });
       }
-    });
-  }
-</script>
-
-
+    </script>
   </body>
 </html>
